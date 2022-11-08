@@ -1,0 +1,9 @@
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\bin\Debug\Crucigrama.exe
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\bin\Debug\Crucigrama.pdb
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\bin\Debug\Crucigrama.xml
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.Crucigrama.resources
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.Resources.resources
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.vbproj.GenerateResource.Cache
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.exe
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.xml
+E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.pdb

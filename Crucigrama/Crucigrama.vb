@@ -13,6 +13,35 @@
         {"-", "-", "-", "-", "P", "-", "-", "-", "O", "-"},
         {"-", "N", "E", "X", "T", "-", "-", "-", "N", "-"}
     }
+    Dim respuestas(,) As String
+
+
+    Private Sub LeerRespuestas()
+        Dim i, j
+        For i = 0 To 9
+            For j = 0 To 9
+                'Console.WriteLine("a")
+                respuestas(i, j) = TextBoxArray(i, j).Text
+            Next
+        Next
+    End Sub
+
+    Private Sub EvaluarRespuestas()
+        Dim i, j
+        Dim distinto As Boolean
+        For i = 0 To 9
+            For j = 0 To 9
+                If respuestas(i, j) <> crucigrama(i, j) Then
+                    distinto = True
+                End If
+            Next
+        Next
+        If distinto Then
+            MsgBox("Respuesta incorrecta")
+        Else
+            MsgBox("Respuesta correcta")
+        End If
+    End Sub
 
     Private Sub Crucigrama_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
         Dim i, j As Integer
@@ -34,6 +63,7 @@
     End Sub
 
     Private Sub ButtonValidar_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles ButtonValidar.Click
-        'VALIDAR CRUCIGRAMA
+        LeerRespuestas()
+        EvaluarRespuestas()
     End Sub
 End Class

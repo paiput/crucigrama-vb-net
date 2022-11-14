@@ -7,3 +7,14 @@ E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.vbproj.Gener
 E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.exe
 E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.xml
 E:\vb-net\crucigrama\Crucigrama\Crucigrama\obj\x86\Debug\Crucigrama.pdb
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\bin\Debug\Crucigrama.exe
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\bin\Debug\Crucigrama.pdb
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\bin\Debug\Crucigrama.xml
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.vbproj.AssemblyReference.cache
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.Crucigrama.resources
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.Resources.resources
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.vbproj.GenerateResource.cache
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.exe
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.xml
+C:\Users\Alumno\Downloads\crucigrama-vb-net-main\Crucigrama\obj\x86\Debug\Crucigrama.pdb
